@@ -1,0 +1,10 @@
+{
+  "name": "datepicker",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  }
+}
